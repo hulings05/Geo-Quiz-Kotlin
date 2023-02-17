@@ -12,7 +12,7 @@ in the Americas.</string>
 freshwater lake.</string>
     <string name="true_button">True</string>
     <string name="false_button">False</string>
-    <string name="next_button">False</string>
-    <string name="correct_toast">True</string>
-    <string name="incorrect_toast">True</string>
+    <string name="next_button">Next</string>
+    <string name="correct_toast">Correct</string>
+    <string name="incorrect_toast">Incorrect</string>
 </resources>
